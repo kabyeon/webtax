@@ -1,15 +1,15 @@
-## dart-webtax ##
-Buckshot UI¸¦ ÀÌ¿ëÇÑ Ãëµæ¼¼ ÀÚµ¿°è»êÇÁ·Î±×·¥
+ï»¿## dart-webtax ##
+Buckshot UIë¥¼ ì´ìš©í•œ ì·¨ë“ì„¸ ìë™ê³„ì‚°í”„ë¡œê·¸ë¨
 
-## ÇÊ¿äÇÑ ¶óÀÌºê·¯¸® ##
+## í•„ìš”í•œ ë¼ì´ë¸ŒëŸ¬ë¦¬ ##
 Buckshot UI => https://github.com/prujohn/Buckshot
 Dart Xml => https://github.com/prujohn/dart-xml
-  [¼³Ä¡°æ·Î/external/dartxml/] 
+  [ì„¤ì¹˜ê²½ë¡œ/external/dartxml/] 
 
-## ½ÇÇà¹æ¹ı ##
-1.[¼³Ä¡°æ·Î/demos/webtax/] ·Î º¹»ç
-2.dart editor¿¡¼­ open Æú´õ·Î [¼³Ä¡°æ·Î/demos/webtax/] ¿­¾îÁİ´Ï´Ù.
-3.[¼³Ä¡°æ·Î/demos/webtax/webtax.html] ½ÇÇà
+## ì‹¤í–‰ë°©ë²• ##
+1.[ì„¤ì¹˜ê²½ë¡œ/demos/webtax/] ë¡œ ë³µì‚¬
+2.dart editorì—ì„œ open í´ë”ë¡œ [ì„¤ì¹˜ê²½ë¡œ/demos/webtax/] ì—´ì–´ì¤ë‹ˆë‹¤.
+3.[ì„¤ì¹˜ê²½ë¡œ/demos/webtax/webtax.html] ì‹¤í–‰
 
-## Âü°íÀÚ·á ##
+## ì°¸ê³ ìë£Œ ##
 http://r114.com/z/solution/acquisition_tax/04.asp?only=0&m_=37&g_=
